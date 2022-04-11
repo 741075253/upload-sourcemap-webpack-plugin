@@ -1,0 +1,12 @@
+{
+  "name": "upload-sourcemap-webpack-plugin",
+  "version": "0.0.1",
+  "author": "741075253@qq.com",
+  "description": "上传sourcemap文件",
+  "main": "src/index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
